@@ -1,3 +1,5 @@
+; from https://superuser.com/questions/327866/remote-desktop-sending-ctrl-alt-left-arrow-ctrl-alt-right-arrow-to-the-remote-p
+
 ; Ctrl ^  Alt !  Shift +  Win #
 
 #SingleInstance force
