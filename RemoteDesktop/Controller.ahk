@@ -1,4 +1,4 @@
-; from https://superuser.com/questions/327866/remote-desktop-sending-ctrl-alt-left-arrow-ctrl-alt-right-arrow-to-the-remote-p
+; from https://superuser.com/questions/397257/how-to-fix-ahk-to-send-keys-to-rdp-fullscreen
 
 #SingleInstance force
 
