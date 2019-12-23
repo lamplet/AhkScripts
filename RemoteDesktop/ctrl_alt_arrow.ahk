@@ -14,11 +14,19 @@ IfWinActive, ahk_class TscShellContainerClass
 {
     send ^!{F10}
 }
+else
+{
+    send ^!{Left}
+}
 return
 
 ^!Right::
 IfWinActive, ahk_class TscShellContainerClass
 {
     send ^!{F11}
+}
+else
+{
+    send ^!{Right}
 }
 return
